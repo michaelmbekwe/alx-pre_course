@@ -1,2 +1,1 @@
-My first readme miko
-
+My first readme v. 1.1
